@@ -16,16 +16,16 @@ consumes:
 security:
 - basicAuth: []
 paths:
-  "/afine":
+  "/hacked":
     get:
       responses:
         '200':
           description: No response was specified
       tags:
-      - somettext
+      - Hacked By 1binary0
       operationId: findAccounts
       summary: this is example text
-  "/malformed_by_afine":
+  "/malformed_brequest_by_1binary0":
     delete:
       parameters:
       - description: |
@@ -40,7 +40,8 @@ paths:
         '200':
           description: No response was specified
       tags:
-      - afine
+      
+      - Hacked By 1binary0
       operationId: afine
       summary: afine
     get:
