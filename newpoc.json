@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/MuhammadUsman-coder/DOM-XSS-Swagger/main/poc.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/MuhammadUsman-coder/DOM-XSS-Swagger/main/poc.yaml",
+            "name": "You Have Been Hacked"
+        }
+    ]
+}
