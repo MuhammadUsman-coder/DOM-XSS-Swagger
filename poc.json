@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/afine-com/CVE-2018-25031/main/poc.yaml",
+    "url": "https://raw.githubusercontent.com/MuhammadUsman-coder/DOM-XSS-Swagger/main/poc.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/afine-com/CVE-2018-25031/main/poc.yaml",
+            "url": "https://raw.githubusercontent.com/MuhammadUsman-coder/DOM-XSS-Swagger/main/poc.yaml",
             "name": "You Have Been Hacked"
         }
     ]
